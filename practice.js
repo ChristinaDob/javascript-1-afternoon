@@ -103,7 +103,7 @@ function nameCheck(name) {
   }
 }
 
-//////////////////PROBLEM 12////////////////////
+//////////////////PROBLEM 12//////////////////////
 
 // Create a function called add that takes in two parameters
 // that will be numbers.
